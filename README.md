@@ -17,9 +17,9 @@ To create a simple world in OpenGL and generate objects that could obstruct the 
 
 - C++11 compiler
 
-  $ yum groupinstall "Development Tools" -y
+  `$ yum groupinstall "Development Tools" -y
 
-  $ yum install gcc-c++ glew-devel freeglut-devel -y
+  `$ yum install gcc-c++ glew-devel freeglut-devel -y
 
 # Marking Scheme 
 
@@ -35,7 +35,7 @@ This is a simple C++ application which uses OpenGL to demostrate movement, hit d
 
 - Clone from git 
 
-  $ git clone https://github.com/IvanMacukat/CI224Maze.git
+  `$ git clone https://github.com/IvanMacukat/CI224Maze.git
 
 - Start eclipse
 - File import
